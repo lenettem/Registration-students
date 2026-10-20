@@ -46,11 +46,11 @@ ability to display and remove registrations.
 
 ### Screenshot 1: Registration Form
 
-[Registration form](11.jpg)
+(11.jpg)
 
 ### Screenshot 2: Registered Students
 
-[Registered students](9.jpg)
+(9.jpg)
 
 ## Author
 MAGOBA LENETTE
