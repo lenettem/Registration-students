@@ -62,4 +62,7 @@ S25D14/034
 B35385
 
 ## Repository
-https://github.com/lenettem/FORM-WORKSHOP-REGISTRATION.git
+https://github.com/lenettem/Dashboard-students
+
+## local host link for student registration.
+http://localhost:5173/
